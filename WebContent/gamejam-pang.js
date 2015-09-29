@@ -81,7 +81,7 @@ function create() {
     aliens.enableBody = true;
     aliens.physicsBodyType = Phaser.Physics.ARCADE;
 
-    createAliens();
+    createAliens();ldBound
 
     //  The score
     scoreString = 'Score : ';
